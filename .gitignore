@@ -1,0 +1,7 @@
+*.png
+*.whl
+*.pyc
+__pycache__
+v34
+db.sqlite3
+.DS_Store
